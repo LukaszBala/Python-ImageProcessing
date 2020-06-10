@@ -4,12 +4,8 @@
 from PIL import Image
 import numpy as np
 import sys
-import open
-import holes
-import filtr
+from ImageProcessing import filtr, arg, open, holes, regionprops
 import os
-import regionprops
-import arg
 
 
 def main():

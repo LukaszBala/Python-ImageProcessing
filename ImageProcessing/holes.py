@@ -1,5 +1,5 @@
 import numpy as np
-import open
+from ImageProcessing import open
 
 
 def fill(img):
